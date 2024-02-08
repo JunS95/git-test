@@ -1,6 +1,4 @@
-team: Donald
-​
-manager: John
+manager: Luke
 ​
 members:
 - Linda
