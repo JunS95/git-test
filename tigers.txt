@@ -1,6 +1,6 @@
-team: Donald
+team: Tigers
 ​
-manager: Donald
+manager: mainTigers
 ​
 coah : Grace
 
