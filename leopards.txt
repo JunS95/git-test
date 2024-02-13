@@ -1,6 +1,8 @@
 team: Leopards
 
-manager: Lora
+manager: Nora
+
+coach : Oscar
 ​
 members:
 - Linda
