@@ -1,7 +1,9 @@
 team: Donald
 ​
-manager: John
+manager: Donald
 ​
+coah : Grace
+
 members:
 - Linda
 - William
