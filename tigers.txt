@@ -1,6 +1,6 @@
-team: Donald
+team: Tigers
 ​
-manager: Donald
+manager: Conlict-1Donald
 ​
 coah : Grace
 
